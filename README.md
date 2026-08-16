@@ -48,20 +48,13 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, sempre bu
 ### 📚 Atualmente estudando
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="Banco de Dados"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github" alt="Tecnologias em estudo" />
 </p>
 
 ### 🔧 Conhecimentos complementares
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-777BB4?style=for-the-badge&logo=codeforces&logoColor=white" alt="Lógica de Programação"/>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Conhecimentos complementares" />
 </p>
 
 Estou constantemente adicionando novas tecnologias ao meu aprendizado conforme avanço na graduação e nos meus estudos.
@@ -81,6 +74,17 @@ Estou constantemente adicionando novas tecnologias ao meu aprendizado conforme a
 | ⚙️ Backend | Fundamentos de desenvolvimento Backend |
 
 ---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/henry-soares-897893421/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/henrysoares0723-collab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
