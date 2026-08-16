@@ -82,5 +82,8 @@ Estou constantemente adicionando novas tecnologias ao meu aprendizado conforme a
 
 ---
 
+---
 
-
+<p align="center">
+  <i>🚀 Aberto a oportunidades de estágio em Desenvolvimento Backend!</i>
+</p>
